@@ -1,0 +1,15 @@
+# path: public/robots.txt
+
+User-agent: *
+Allow: /
+
+# Important pages
+Allow: /courses/
+Allow: /test
+Allow: /about
+
+# Sitemap location
+Sitemap: https://fluentstart.netlify.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "question": "How do the live classes work?",
+    "answer": "Our live classes are conducted via Zoom with small groups of 10-15 students maximum. Each session is interactive with speaking practice, real-time feedback, and engaging activities. All sessions are recorded so you can review them later.",
+    "category": "Classes",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "question": "What if I miss a live class?",
+    "answer": "Don't worry! All live sessions are recorded and available within 24 hours. You'll also receive class notes and homework assignments. Our instructors are available for one-on-one makeup sessions if needed.",
+    "category": "Classes",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "question": "How do I know which course level is right for me?",
+    "answer": "Take our free 10-minute assessment test! It evaluates your grammar, vocabulary, and comprehension skills to recommend the perfect course level. You can also schedule a free consultation with our instructors.",
+    "category": "Course Selection",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "question": "What technology do I need for the courses?",
+    "answer": "You'll need a computer or tablet with internet connection, microphone, and camera. We use Zoom for classes (free account works fine). All course materials are provided digitally through our learning platform.",
+    "category": "Technology",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "question": "Are there any additional costs beyond the course fee?",
+    "answer": "No hidden costs! The course fee includes all materials, recorded sessions, instructor support, and access to our student community. The only additional cost might be a reliable internet connection.",
+    "category": "Pricing",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "question": "Can I get a refund if I'm not satisfied?",
+    "answer": "Absolutely! We offer a 100% satisfaction guarantee. If you're not completely satisfied within the first 2 weeks, we'll provide a full refund, no questions asked.",
+    "category": "Pricing",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "question": "Do you provide certificates upon completion?",
+    "answer": "Yes! Upon successful completion of your course, you'll receive a verified certificate of completion that you can add to your LinkedIn profile or resume. Our certificates are recognized by many employers worldwide.",
+    "category": "Certification",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "question": "How long does it take to see improvement?",
+    "answer": "Most students notice improvement in their confidence and speaking ability within the first 2-3 weeks. Significant progress typically occurs by week 4-5, with major fluency gains by course completion. Results vary based on starting level and practice time.",
+    "category": "Progress",
+    "featured": true
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "title": "English Fundamentals",
+    "slug": "english-fundamentals",
+    "level": "beginner",
+    "summary": "Perfect for beginners! Master essential grammar, vocabulary, and speaking skills through interactive live sessions.",
+    "description": "Our English Fundamentals course is designed for complete beginners or those looking to strengthen their basic English skills. Through engaging live classes, you'll build a solid foundation in grammar, vocabulary, pronunciation, and everyday conversation skills.",
+    "thumbnailUrl": "/images/course-beginner.jpg",
+    "price": "$199",
+    "originalPrice": "$299",
+    "discount": "33% OFF",
+    "duration": "8 weeks",
+    "totalHours": "32 hours",
+    "schedule": "Tuesdays & Thursdays, 7:00 PM - 8:30 PM EST",
+    "nextCohort": "March 15, 2025",
+    "seats": "15 students max",
+    "seatsAvailable": 8,
+    "instructor": "Sarah Johnson",
+    "instructorBio": "Certified TESOL instructor with 8+ years of experience teaching English to international students.",
+    "instructorImage": "/images/instructor-sarah.jpg",
+    "meetingPlatform": "Zoom",
+    "cohortType": "Small group (max 15 students)",
+    "language": "English with native language support",
+    "certificate": true,
+    "outcomes": [
+      "Confidently introduce yourself and engage in basic conversations",
+      "Use present, past, and future tenses correctly in speech and writing",
+      "Build a vocabulary of 1000+ essential English words",
+      "Improve pronunciation and speaking clarity",
+      "Write simple emails and text messages",
+      "Understand basic English media (news, podcasts, videos)"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "title": "Getting Started",
+        "topics": [
+          "Introductions",
+          "Basic greetings",
+          "Alphabet & numbers",
+          "Personal information"
+        ]
+      },
+      {
+        "week": 2,
+        "title": "Present Tense Mastery",
+        "topics": [
+          "Simple present",
+          "Present continuous",
+          "Daily routines",
+          "Describing people"
+        ]
+      },
+      {
+        "week": 3,
+        "title": "Past Experiences",
+        "topics": [
+          "Simple past",
+          "Past continuous",
+          "Time expressions",
+          "Telling stories"
+        ]
+      },
+      {
+        "week": 4,
+        "title": "Future Plans",
+        "topics": [
+          "Future with 'will'",
+          "Going to",
+          "Making plans",
+          "Weather & seasons"
+        ]
+      },
+      {
+        "week": 5,
+        "title": "Questions & Conversations",
+        "topics": [
+          "Question formation",
+          "Small talk",
+          "Asking for help",
+          "Shopping & ordering"
+        ]
+      },
+      {
+        "week": 6,
+        "title": "Family & Relationships",
+        "topics": [
+          "Family vocabulary",
+          "Describing relationships",
+          "Emotions",
+          "Social situations"
+        ]
+      },
+      {
+        "week": 7,
+        "title": "Work & Study",
+        "topics": [
+          "Job vocabulary",
+          "Describing work",
+          "Study habits",
+          "Goals & dreams"
+        ]
+      },
+      {
+        "week": 8,
+        "title": "Review & Assessment",
+        "topics": [
+          "Grammar review",
+          "Vocabulary games",
+          "Speaking practice",
+          "Final presentation"
+        ]
+      }
+    ],
+    "prerequisites": "No prior English knowledge required",
+    "materials": "All materials provided digitally",
+    "recordedSessions": true,
+    "supportGroup": true,
+    "tags": ["beginner", "fundamentals", "grammar", "vocabulary", "speaking"]
+  },
+  {
+    "id": 2,
+    "title": "Business English Mastery",
+    "slug": "business-english",
+    "level": "intermediate",
+    "summary": "Advance your career with professional English skills. Perfect for workplace communication and business presentations.",
+    "description": "Take your English to the professional level with our Business English Mastery course. Designed for intermediate learners, this course focuses on workplace communication, business writing, presentations, and negotiation skills that will boost your career prospects.",
+    "thumbnailUrl": "/images/course-intermediate.jpg",
+    "price": "$299",
+    "originalPrice": "$399",
+    "discount": "25% OFF",
+    "duration": "10 weeks",
+    "totalHours": "40 hours",
+    "schedule": "Mondays & Wednesdays, 6:30 PM - 8:00 PM EST",
+    "nextCohort": "March 22, 2025",
+    "seats": "12 students max",
+    "seatsAvailable": 5,
+    "instructor": "Michael Chen",
+    "instructorBio": "MBA graduate and business English specialist with 10+ years in corporate training and international business.",
+    "instructorImage": "/images/instructor-michael.jpg",
+    "meetingPlatform": "Zoom",
+    "cohortType": "Professional group (max 12 students)",
+    "language": "English only",
+    "certificate": true,
+    "outcomes": [
+      "Lead effective meetings and presentations in English",
+      "Write professional emails, reports, and proposals",
+      "Negotiate and close deals confidently",
+      "Network effectively in business settings",
+      "Handle challenging workplace conversations",
+      "Understand business terminology and industry jargon"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "title": "Professional Communication",
+        "topics": [
+          "Business etiquette",
+          "Professional introductions",
+          "Email basics",
+          "Phone skills"
+        ]
+      },
+      {
+        "week": 2,
+        "title": "Meeting Mastery",
+        "topics": [
+          "Leading meetings",
+          "Participating effectively",
+          "Action items",
+          "Follow-up communication"
+        ]
+      },
+      {
+        "week": 3,
+        "title": "Presentation Skills",
+        "topics": [
+          "Structure & organization",
+          "Visual aids",
+          "Audience engagement",
+          "Q&A handling"
+        ]
+      },
+      {
+        "week": 4,
+        "title": "Business Writing",
+        "topics": [
+          "Professional emails",
+          "Reports & memos",
+          "Proposals",
+          "Documentation"
+        ]
+      },
+      {
+        "week": 5,
+        "title": "Negotiation & Sales",
+        "topics": [
+          "Negotiation tactics",
+          "Persuasive language",
+          "Closing techniques",
+          "Customer relations"
+        ]
+      },
+      {
+        "week": 6,
+        "title": "Networking & Relationships",
+        "topics": [
+          "Small talk strategies",
+          "Building rapport",
+          "Industry events",
+          "Maintaining connections"
+        ]
+      },
+      {
+        "week": 7,
+        "title": "Cross-Cultural Communication",
+        "topics": [
+          "Cultural awareness",
+          "International business",
+          "Remote collaboration",
+          "Time management"
+        ]
+      },
+      {
+        "week": 8,
+        "title": "Leadership Communication",
+        "topics": [
+          "Team leadership",
+          "Giving feedback",
+          "Conflict resolution",
+          "Change management"
+        ]
+      },
+      {
+        "week": 9,
+        "title": "Industry-Specific English",
+        "topics": [
+          "Technical terminology",
+          "Industry trends",
+          "Professional development",
+          "Career advancement"
+        ]
+      },
+      {
+        "week": 10,
+        "title": "Capstone Project",
+        "topics": [
+          "Business case study",
+          "Final presentation",
+          "Peer feedback",
+          "Course completion"
+        ]
+      }
+    ],
+    "prerequisites": "Intermediate English level (B1-B2) or completion of fundamentals course",
+    "materials": "Business case studies, templates, and resources provided",
+    "recordedSessions": true,
+    "supportGroup": true,
+    "tags": [
+      "intermediate",
+      "business",
+      "professional",
+      "presentations",
+      "meetings",
+      "career"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Advanced English Mastery",
+    "slug": "advanced-mastery",
+    "level": "advanced",
+    "summary": "Achieve native-level fluency with advanced grammar, idioms, and sophisticated communication skills.",
+    "description": "Our most comprehensive course for advanced learners seeking native-level fluency. Master complex grammar structures, idiomatic expressions, advanced vocabulary, and sophisticated communication techniques used by native speakers.",
+    "thumbnailUrl": "/images/course-advanced.jpg",
+    "price": "$399",
+    "originalPrice": "$499",
+    "discount": "20% OFF",
+    "duration": "12 weeks",
+    "totalHours": "48 hours",
+    "schedule": "Tuesdays & Fridays, 8:00 PM - 9:30 PM EST",
+    "nextCohort": "March 29, 2025",
+    "seats": "10 students max",
+    "seatsAvailable": 3,
+    "instructor": "Dr. Emma Watson",
+    "instructorBio": "PhD in Applied Linguistics with 15+ years of experience. Former Cambridge examiner and published author.",
+    "instructorImage": "/images/instructor-emma.jpg",
+    "meetingPlatform": "Zoom",
+    "cohortType": "Elite group (max 10 students)",
+    "language": "English only - immersive experience",
+    "certificate": true,
+    "outcomes": [
+      "Speak with native-level fluency and confidence",
+      "Master complex grammatical structures and nuances",
+      "Use idioms, phrasal verbs, and colloquialisms naturally",
+      "Write sophisticated academic and professional texts",
+      "Understand cultural references and humor",
+      "Debate complex topics and express nuanced opinions"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "title": "Advanced Grammar Structures",
+        "topics": [
+          "Complex conditionals",
+          "Subjunctive mood",
+          "Advanced passive voice",
+          "Nominalization"
+        ]
+      },
+      {
+        "week": 2,
+        "title": "Idiomatic Expressions",
+        "topics": [
+          "Common idioms",
+          "Phrasal verbs",
+          "Colloquialisms",
+          "Regional variations"
+        ]
+      },
+      {
+        "week": 3,
+        "title": "Academic Writing",
+        "topics": [
+          "Essay structure",
+          "Research writing",
+          "Citation styles",
+          "Critical analysis"
+        ]
+      },
+      {
+        "week": 4,
+        "title": "Literary English",
+        "topics": [
+          "Poetry analysis",
+          "Literary devices",
+          "Creative writing",
+          "Book discussions"
+        ]
+      },
+      {
+        "week": 5,
+        "title": "Debate & Argumentation",
+        "topics": [
+          "Logical reasoning",
+          "Counter-arguments",
+          "Persuasive techniques",
+          "Public speaking"
+        ]
+      },
+      {
+        "week": 6,
+        "title": "Cultural Fluency",
+        "topics": [
+          "Cultural references",
+          "Humor & sarcasm",
+          "Social contexts",
+          "Register variations"
+        ]
+      },
+      {
+        "week": 7,
+        "title": "Media & Current Events",
+        "topics": [
+          "News analysis",
+          "Documentary discussion",
+          "Social media language",
+          "Trend analysis"
+        ]
+      },
+      {
+        "week": 8,
+        "title": "Professional Presentations",
+        "topics": [
+          "Advanced presentation skills",
+          "Thought leadership",
+          "Conference speaking",
+          "Panel discussions"
+        ]
+      },
+      {
+        "week": 9,
+        "title": "Creative Expression",
+        "topics": [
+          "Storytelling",
+          "Creative writing",
+          "Improvisation",
+          "Artistic expression"
+        ]
+      },
+      {
+        "week": 10,
+        "title": "Critical Thinking",
+        "topics": [
+          "Analytical skills",
+          "Problem-solving",
+          "Research methods",
+          "Evidence evaluation"
+        ]
+      },
+      {
+        "week": 11,
+        "title": "Specialized Vocabulary",
+        "topics": [
+          "Technical terminology",
+          "Industry-specific language",
+          "Academic vocabulary",
+          "Formal registers"
+        ]
+      },
+      {
+        "week": 12,
+        "title": "Mastery Assessment",
+        "topics": [
+          "Comprehensive review",
+          "Mastery demonstration",
+          "Peer teaching",
+          "Future learning plans"
+        ]
+      }
+    ],
+    "prerequisites": "Advanced English level (C1-C2) or instructor approval",
+    "materials": "Curated literary texts, academic papers, and multimedia resources",
+    "recordedSessions": true,
+    "supportGroup": true,
+    "tags": [
+      "advanced",
+      "fluency",
+      "idioms",
+      "academic",
+      "native-level",
+      "sophisticated"
+    ]
+  }
+]

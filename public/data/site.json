@@ -1,0 +1,136 @@
+{
+  "brandName": "FluentStart",
+  "tagline": "Master English Live",
+  "description": "Transform your English skills with our expert-led live classes. Join thousands of students who have achieved fluency through our proven interactive methodology.",
+  "whatsappNumber": "1234567890",
+  "email": "hello@fluentstart.com",
+  "phone": "+1 (555) 123-4567",
+  "address": {
+    "street": "123 Education Avenue",
+    "city": "Learning City",
+    "state": "Knowledge State",
+    "zipCode": "12345",
+    "country": "United States"
+  },
+  "socialLinks": {
+    "facebook": "https://facebook.com/fluentstart",
+    "twitter": "https://twitter.com/fluentstart",
+    "instagram": "https://instagram.com/fluentstart",
+    "linkedin": "https://linkedin.com/company/fluentstart",
+    "youtube": "https://youtube.com/@fluentstart"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/",
+      "isExternal": false
+    },
+    {
+      "label": "Courses",
+      "href": "/#courses",
+      "isExternal": false
+    },
+    {
+      "label": "Test Your Level",
+      "href": "/test",
+      "isExternal": false
+    },
+    {
+      "label": "About",
+      "href": "/about",
+      "isExternal": false
+    }
+  ],
+  "footer": {
+    "quickLinks": [
+      {
+        "label": "Take Level Test",
+        "href": "/test"
+      },
+      {
+        "label": "Course Catalog",
+        "href": "/#courses"
+      },
+      {
+        "label": "Success Stories",
+        "href": "/#testimonials"
+      },
+      {
+        "label": "FAQ",
+        "href": "/#faq"
+      }
+    ],
+    "support": [
+      {
+        "label": "Contact Us",
+        "href": "/about#contact"
+      },
+      {
+        "label": "Technical Support",
+        "href": "#"
+      },
+      {
+        "label": "Course Schedule",
+        "href": "#"
+      },
+      {
+        "label": "Refund Policy",
+        "href": "#"
+      }
+    ],
+    "company": [
+      {
+        "label": "About FluentStart",
+        "href": "/about"
+      },
+      {
+        "label": "Our Methodology",
+        "href": "/about#methodology"
+      },
+      {
+        "label": "Meet Our Team",
+        "href": "/about#team"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "#"
+      }
+    ],
+    "copyright": "© 2025 FluentStart. All rights reserved. Transforming lives through English education.",
+    "disclaimer": "FluentStart is committed to providing quality English education. Results may vary based on individual effort and participation."
+  },
+  "seo": {
+    "defaultTitle": "FluentStart - Master English Live",
+    "titleTemplate": "%s | FluentStart",
+    "defaultDescription": "Master English with live interactive classes. Join our expert-led courses for all levels. Take our free assessment test and start your fluency journey today.",
+    "keywords": [
+      "English course",
+      "learn English online",
+      "English classes",
+      "fluency training",
+      "speaking practice",
+      "grammar lessons",
+      "vocabulary building",
+      "business English",
+      "IELTS preparation",
+      "live English classes"
+    ]
+  },
+  "contact": {
+    "whatsappMessage": "Hi! I'm interested in learning more about FluentStart courses. Please share details about enrollment and next steps.",
+    "supportMessage": "Hello! I need help with my FluentStart course. Please assist me with my query.",
+    "businessHours": {
+      "weekdays": "9:00 AM - 6:00 PM EST",
+      "weekends": "10:00 AM - 4:00 PM EST",
+      "timezone": "Eastern Standard Time"
+    }
+  },
+  "features": {
+    "liveClasses": true,
+    "recordedSessions": true,
+    "personalizedFeedback": true,
+    "certificateProgram": true,
+    "mobileLearning": true,
+    "communityAccess": true
+  }
+}
